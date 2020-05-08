@@ -1,3 +1,3 @@
 
 
-<img src="./Resume.png">
+<img src="./assets/Resume.png">
