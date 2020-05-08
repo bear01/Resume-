@@ -1,2 +1,3 @@
-# Resume
-个人简历
+
+
+<img src="./Resume.png">
