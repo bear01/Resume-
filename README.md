@@ -1,3 +1,2 @@
+#### 个人简历模板
 
-
-<img src="./assets/Resume.png">
