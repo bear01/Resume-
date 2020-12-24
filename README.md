@@ -34,6 +34,6 @@
 
 一个属于自己的简历模板就做好啦~~~
 
-> 如果想要放证件照，可以转成pdf后，通过https://smallpdf.com/cn/edit-pdf在线编辑，直接在pdf上选择合适的位置放置你的证件照！
+> 如果想要放证件照，可以转成pdf后，通过https://smallpdf.com/cn/edit-pdf 在线编辑，直接在pdf上选择合适的位置放置你的证件照！
 
 ![](C:\Users\win10\Desktop\工作\简历\assets\Resume.png)
